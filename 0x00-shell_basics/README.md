@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files
+Write a script that changes the working directory to the user’s home directory
